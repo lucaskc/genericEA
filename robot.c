@@ -4,9 +4,9 @@
 #include <limits.h>
 
 #define NUCLEOTIDE_NUM 4
-#define N_GENES 	   70
-#define POP_SIZE	   1000
-#define TM 			   5
+#define N_GENES 	   100
+#define POP_SIZE	   90
+#define TM 			   3
 
 typedef struct population POP;
 
